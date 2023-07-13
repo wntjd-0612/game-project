@@ -12,7 +12,7 @@ speedY = 0;
 // 미끄러운 정도
 const SLIP = 20
 // 튕기는 정도
-const BOUNCE = 2
+const BOUNCE = 9.8
 // 중력가속도
 const GRA = 0.2
 //저항
